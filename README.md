@@ -1,4 +1,4 @@
-# MedicalApplication
+# MedicalApplication - This project was a group project.  I was unable to fix errors.
  Growp op application Hemp and Medical marajuana for the purpose of tracking clone to sale.
  
  Next steps to be done:
