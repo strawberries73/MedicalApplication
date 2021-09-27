@@ -9,7 +9,7 @@ namespace MedicalApplication.Controllers
     public class HomeController : Controller
     {
         // Reference to the manager object
-        Manager m = new Manager();
+        //Manager m = new Manager();
 
         public ActionResult Index()
         {
