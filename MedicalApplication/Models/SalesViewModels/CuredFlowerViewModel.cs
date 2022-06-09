@@ -18,7 +18,7 @@ namespace MedicalApplication.Models.ViewModels
 
         public int Keif { get; set; }
 
-        // Displays for Name of product and URL image
+        // Displays Name of product with URL image
         [Display(Name = "Type Name of strain")]
         public string TypeName { get; set; }
 
